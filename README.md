@@ -9,7 +9,7 @@
 
 ## Installation
 
-* Download the binary from the latst tag.
+* Download the binary from the latest tag.
 * Call `cupt` from your favorite terminal emulator.
 
 ## Source Installation
